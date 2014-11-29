@@ -1,0 +1,4 @@
+extensions/
+cef_data/
+.DS_Store
+state.json

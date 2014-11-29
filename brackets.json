@@ -1,0 +1,15 @@
+{
+    "themes.theme": "dark-theme",
+    "styleActiveLine": true,
+    "wordWrap": false,
+    "linting.collapsed": false,
+    "closeBrackets": true,
+    "highlightMatches": {
+        "wordsOnly": true
+    },
+    "closeTags": {
+        "whenOpening": false,
+        "whenClosing": true
+    },
+    "fonts.fontSize": "16px"
+}
